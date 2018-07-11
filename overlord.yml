@@ -1,0 +1,9 @@
+classification: tier1
+owner: @girasquid
+team: 
+deploy_url: https://example.com/deploy
+monitoring_url: https://app.datadoghq.com/dash/123456/telegram-monitoring
+bugsnag_url: https://app.bugsnag.com/example/example/errors
+playbooks: https://en.wikipedia.org/wiki/Dave_Nichol
+backlog: https://github.com/creaturecreative/redesigned-telegram/projects/1
+oncall_url: pagerduty.com/asdjkfhsafkdh
