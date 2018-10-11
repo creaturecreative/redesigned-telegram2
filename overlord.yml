@@ -1,5 +1,5 @@
 classification: tier_1
-owner: @girasquid
+owner: girasquid
 team: 
 deploy_url: https://example.com/deploy
 monitoring_url: https://app.datadoghq.com/dash/123456/telegram-monitoring
